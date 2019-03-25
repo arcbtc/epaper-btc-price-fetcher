@@ -11,4 +11,4 @@ We use a cheap arduino epaper module (MH-ET LIVE or WaveShare 1.54inch) and the 
 * ESP32 Devkit v1
 * LIPO batery
 
-[![LN Slave Mod]](https://www.youtube.com/watch?v=TB5ZF6uvyI4)
+[![LN Slave Mod](https://i.imgur.com/FPQT77Z.png)](https://www.youtube.com/watch?v=TB5ZF6uvyI4)
