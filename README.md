@@ -12,3 +12,8 @@ We use a cheap arduino epaper module (MH-ET LIVE or WaveShare 1.54inch) and the 
 * LIPO batery
 
 [![LN Slave Mod](https://i.imgur.com/FPQT77Z.png)](https://www.youtube.com/watch?v=TB5ZF6uvyI4)
+
+# Tip me
+If you like this project and might even use or extend it, why not send some tip love!
+https://paywall.link/to/f4e4e
+
