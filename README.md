@@ -3,6 +3,8 @@
 
 # DARE I LOOK.? Good days/bad days, we all have to check the price of bitcoin. 
 
+> <i>Join our <a href="https://t.me/makerbits">telegram support/chat</a>.</i>
+
 We use a cheap arduino epaper module (MH-ET LIVE or WaveShare 1.54inch) and the ESP32 to check the price of bitcoin.
 
 ## Hardware needed
